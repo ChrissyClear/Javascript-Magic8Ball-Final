@@ -1,5 +1,5 @@
 body {
-    background: rgb(49, 112, 143, 0.1);
+    background: rgb(49, 112, 143);
   }
   
   .page {
@@ -141,7 +141,7 @@ body {
     text-shadow: 3px 3px rgb(34, 9, 63);
     font-family: cursive;
     font-weight: bolder;
-    font-size: larger;
+    font-size: 26px;
     margin: 4em;
   }
   
