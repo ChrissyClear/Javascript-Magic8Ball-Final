@@ -149,27 +149,24 @@ body {
     margin: 5px;
   }
   
-  .fa-person-praying {
+  /* <i class="fa-solid fa-umbrella-beach"></i> */
+
+  .fa-umbrella-beach {
     color: rgb(34, 9, 63);
     text-shadow: 3px 3px 3px rgb(255, 255, 255);
   }
   
-  .fa-book-bible {
+  .fa-fish-fins {
     color: rgb(34, 9, 63);
     text-shadow: 3px 3px rgb(255, 255, 255);
   }
   
-  .fa-dove {
-    color: rgb(255, 255, 255);
-    text-shadow: 5px 5px 5px rgb(49, 112, 143);
+  .fa-hand-sparkles {
+    color: rgb(34, 9, 63);
+    text-shadow: 3px 3px rgb(255, 255, 255);
   }
   
-  .fa-hands-praying {
+  .fa-record-vinyl {
     color: rgb(34, 9, 63);
     text-shadow: 3px 3px 3px rgb(255, 255, 255);
-  }
-  
-  .fa-atom {
-    color: rgb(0, 0, 0);
-    text-shadow: 3px 3px 3px rgb(49, 112, 143);
   }
