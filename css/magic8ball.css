@@ -43,7 +43,7 @@ body {
   
   .parallax {
     /* The image used */
-    background-image: url("../img/m8b\ water.avif");
+    background-image: url("../img/footprints.jpg");
   
     /* Set a specific height */
     min-height: 100%; 
@@ -53,8 +53,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%;
+    width: 2400px;
     height: 100%;
+    margin-left: -750px;
   }
 
   .ball {
