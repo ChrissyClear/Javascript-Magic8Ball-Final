@@ -1,5 +1,5 @@
 body {
-    background: rgb(49, 112, 143, 0.5);
+    background: rgb(49, 112, 143, 0.1);
   }
   
   .page {
@@ -53,9 +53,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 2400px;
+    width: 2000px;
     height: 100%;
-    margin-left: -750px;
+    margin-left: -545px;
   }
 
   .ball {
@@ -149,8 +149,6 @@ body {
     margin: 5px;
   }
   
-  /* <i class="fa-solid fa-umbrella-beach"></i> */
-
   .fa-umbrella-beach {
     color: rgb(34, 9, 63);
     text-shadow: 3px 3px 3px rgb(255, 255, 255);
